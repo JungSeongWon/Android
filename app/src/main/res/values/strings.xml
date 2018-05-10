@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="press_again_exit_app">Press again to exit</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="tab_memo">메모</string>
+    <string name="tab_posts">게시글</string>
+    <string name="tab_comment">댓글</string>
+</resources>
